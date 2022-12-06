@@ -1,0 +1,22 @@
+p {font-size: 20px;
+    color: white;
+    text-align: justify;
+    padding: 5px;}
+
+div {padding: 30px;
+      border-bottom: 2px solid white;}
+
+body {background-color: rgb(41, 5, 141);}
+
+ul {color: white;
+    font-size: 20px;
+}
+
+h1 {color:white;
+    font-size: 30px;
+}
+
+.pad {padding: 5px;}
+
+.felsobo {border-top: 2px solid white;}
+.forras {color: white;}
